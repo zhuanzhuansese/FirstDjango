@@ -1,0 +1,2 @@
+# FirstDjango
+django trial
